@@ -4,7 +4,6 @@
 
 A tiny, dependency-free C++ renderer that uses **sphere tracing** (ray marching) over a **signed distance field (SDF)** to render a bumpy, animated “fireball.” Frames are written as `.ppm` images that you can stitch into a GIF.
 
-[https://github.com/yourname/kaboom](https://github.com/yourname/kaboom)
 
 ---
 
