@@ -243,11 +243,6 @@ Ideas:
 
 ---
 
-## License
-
-Add a license to your repository (MIT is a good default for sample code).
-
----
 
 ## Acknowledgements
 
