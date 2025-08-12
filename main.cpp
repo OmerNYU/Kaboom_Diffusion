@@ -7,8 +7,6 @@
 #include <vector>
 #include "geometry.h"
 
-using namespace std;
-
 const float sphere_radius   = 1.5;
 
 float signed_distance(const Vec3f &p) {
@@ -57,6 +55,7 @@ int main() {
 
     return 0;
 }
-
-
-
+// This code implements a simple ray marching algorithm to render a sphere in 3D space.
+// It uses a signed distance function to determine the distance from a point to the surface of the sphere.
+// The main function initializes a framebuffer, performs ray marching for each pixel, and saves the result
+// as a PPM image file. The sphere is centered at the origin with a radius of
